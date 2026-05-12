@@ -54,7 +54,8 @@ except ImportError:
     _STEMMER = None
 
 # ── Constants ─────────────────────────────────────────────────────────────────
-MODEL_DIR = "trained_models"
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_DIR = os.path.join(ROOT_DIR, "trained_models")
 
 MODEL_FILES = {
     "Naive Bayes":  os.path.join(MODEL_DIR, "naive_bayes_model.pkl"),
