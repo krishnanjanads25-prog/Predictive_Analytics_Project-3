@@ -1,1 +1,6 @@
 trained_models/tfidf_vectorizer.pkl
+trained_models/svm_model.pkl
+trained_models/naive_bayes_model.pkl
+trained_models/lstm_tokenizer.pkl
+trained_models/lstm_model.h5
+trained_models/lstm_config.pkl
