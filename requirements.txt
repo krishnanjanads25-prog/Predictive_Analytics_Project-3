@@ -1,9 +1,0 @@
-streamlit
-numpy
-pandas
-scipy
-scikit-learn
-tensorflow
-nltk
-gensim
-imbalanced-learn
