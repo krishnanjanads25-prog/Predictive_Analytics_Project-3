@@ -253,11 +253,6 @@ Predictive_Analytics_Project-3/
 ├── Procfile
 ├── README.md
 │
-├── individual_profiles/
-│   ├── member1_profile.png
-│   ├── member2_profile.png
-│   └── member3_profile.png
-│
 └── screenshots/
     ├── github_repo.png
     ├── streamlit_app.png
