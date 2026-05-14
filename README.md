@@ -256,7 +256,7 @@ Predictive_Analytics_Project-3/
 └── screenshots/
     ├── github_repo.png
     ├── streamlit_app.png
-    └── prediction_output.png
+    
 ```
 
 ---
@@ -320,24 +320,6 @@ https://email-spam-classifier.streamlit.app/
 ```
 
 ---
-
-# 📷 Screenshots
-
-## 📌 GitHub Repository
-
-> Add your GitHub repository screenshot here.
-
----
-
-## 📌 Streamlit Web Application
-
-> Add your deployed app screenshot here.
-
----
-
-## 📌 Prediction Output
-
-> Add prediction result screenshot here.
 
 ---
 
