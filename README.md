@@ -12,9 +12,9 @@ The project demonstrates the complete **Data Science Life Cycle**, including dat
 
 | Team Member | Contribution |
 |-------------|--------------|
-| Member 1 | Data Collection, Preprocessing & EDA |
-| Member 2 | Feature Engineering & Model Training |
-| Member 3 | Deployment & Documentation |
+| Krishnanjana J J | Data Collection, Preprocessing & EDA |
+| Nakshathra V | Feature Engineering & Model Training |
+| Harikrishnan S M | Deployment & Documentation |
 
 
 
@@ -249,7 +249,6 @@ Predictive_Analytics_Project-3/
 ├── model_training.py
 ├── app.py
 ├── requirements.txt
-├── Procfile
 ├── README.md
 │
 └── screenshots/
