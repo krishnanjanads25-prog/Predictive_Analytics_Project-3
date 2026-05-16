@@ -1,8 +1,8 @@
-streamlit
-numpy
-pandas
-scipy
-scikit-learn
-nltk
-gensim
-imbalanced-learn
+streamlit==1.45.0
+numpy==2.2.0
+pandas==2.2.3
+scipy==1.15.0
+scikit-learn==1.6.0
+nltk==3.9.1
+gensim==4.3.3
+imbalanced-learn==0.13.0
