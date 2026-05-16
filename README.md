@@ -309,8 +309,7 @@ streamlit run app.py
 
 # 🌐 Live Deployment Link
 
-👉 Add your Streamlit deployment link here
-
+👉 https://email-spam-detection-i3plduappn4kgf8p6rwfzzn.streamlit.app/
 Example:
 
 ```bash
